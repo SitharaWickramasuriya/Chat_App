@@ -40,7 +40,8 @@ Real-Time Engine: Flask-SocketIO + Eventlet
 # 🚀 Getting Started
 1. Clone the Repository
 <pre>
-  git clone https://github.com/SitharaWickramasuriya/chat_app.git cd chat_app </pre>
+  git clone https://github.com/SitharaWickramasuriya/chat_app.git 
+  cd chat_app </pre>
 2. Install Dependencies
 <pre>
   pip install flask flask-socketio eventlet </pre>
