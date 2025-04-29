@@ -26,7 +26,7 @@ Backend: Python with Flask
 Real-Time Engine: Flask-SocketIO + Eventlet
 
 # 📁 Project Structure
-<pre> csharp 
+<pre>
   chat_app/
 │
 ├── app.py                 # Main Flask server
@@ -39,13 +39,13 @@ Real-Time Engine: Flask-SocketIO + Eventlet
   
 # 🚀 Getting Started
 1. Clone the Repository
-<pre> bash 
+<pre>
   git clone https://github.com/SitharaWickramasuriya/chat_app.git cd chat_app </pre>
 2. Install Dependencies
-<pre> bash 
+<pre>
   pip install flask flask-socketio eventlet </pre>
 3. Run the App
-<pre> bash
+<pre>
   python app.py </pre>
 4. Open in Browser
 Visit: http://localhost:5000
